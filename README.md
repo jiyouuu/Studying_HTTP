@@ -1,2 +1,2 @@
 # Studying_HTTP
-Descroption about HTTP/HTTPS
+1. HTTP/HTTPS에 대한 정리 
